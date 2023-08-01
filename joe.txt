@@ -1,0 +1,21 @@
+{
+  "name": "John Doe",
+  "age": 25,
+  "gender": "male",
+  "birthplace": "California",
+  "childhood": {
+    "googleDocLink": ["www.link.com"],
+    "place": "suburb",
+    "family": ["mother", "father", "brother", "sister"],
+    "school": "primary school"
+  },
+  "education": "university",
+  "occupation": "software engineer",
+  "physical_characteristics": ["tall", "thin", "glasses"],
+  "interests_and_hobbies": ["reading", "video games", "programming"],
+  "flaws_and_weaknesses": ["anxiety", "imposter syndrome"],
+  "accomplishments": ["successfully completed a difficult project", "published an article in a scientific journal"],
+  "life_goals": ["to get promoted to a management position", "to learn a new programming language"],
+  "past_events_and_experiences": ["was bullied in school", "spent a summer vacation volunteering at a non-profit organization"]
+}
+
